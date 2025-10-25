@@ -43,6 +43,7 @@ Example:
 0 1 30 or 00 01 30
 
 (which means 1 minute and 30 seconds)
+
 📝 Note:
 No matter how you enter the time — for example, 00 01 30 or simply 0 1 30 —
 the program automatically converts it to a digital format like 00:01:30.
@@ -54,6 +55,7 @@ the program automatically converts it to a digital format like 00:01:30.
 Time up!
 
 🧠 Challenges Faced and Solutions
+
 🕐 Challenge 1: Displaying the timer in a digital clock format
 
 Problem: The countdown initially didn’t look like a digital timer.
