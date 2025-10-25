@@ -30,7 +30,8 @@ Since GitHub doesn’t execute Python code directly, follow these steps to run t
 3. Open the project in PyCharm or VS Code.
 4. Run the Python file
 
-   🧩 How It Works
+
+🧩 How It Works
 
 1. The program prompts the user to enter a time in the format:
 
